@@ -14,9 +14,7 @@ The project implements a quantum solution to the NP-hard graph coloring problem 
 
 ## Contents:
  - `notebooks/`: Jupyter notebooks for quantum circuit design and execution
- - `src/`: Core Python modules implementing Grover’s search and oracle logic
  - `docs/`: Extended methodology and background derived from the paper
- - `experiments/`: Sample graphs, test cases, and simulation results
 
 ### Notebook: `06-general-graph-coloring-grover-search.ipynb`
 
