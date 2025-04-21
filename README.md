@@ -1,1 +1,1 @@
-"# graph-coloring-quantum-circuits" 
+# Graph Coloring Using Quantum Circuits
